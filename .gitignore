@@ -284,3 +284,7 @@ fabric.properties
 .DS_Store
 .DS_Store
 final_template.zip
+venv/
+.chrome_data/
+02-admin-site.html
+07-final.html
